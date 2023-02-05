@@ -15,4 +15,3 @@ return(
 </li>
 )};
 export default MealItem;
-// comment

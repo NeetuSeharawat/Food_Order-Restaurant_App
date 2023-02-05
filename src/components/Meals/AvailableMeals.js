@@ -45,4 +45,3 @@ const DUMMY_MEALS = [
     </section>
   }
   export default AvailableMeals;
-  // meals added
